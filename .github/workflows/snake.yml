@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%235EEAD4&color_dots=%23ebedf0,%230E4C5C,%231B8A94,%232F9E5C,%233ddc84
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%235EEAD4&color_dots=%23161b22,%230E4C5C,%231B8A94,%232F9E5C,%233ddc84
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
