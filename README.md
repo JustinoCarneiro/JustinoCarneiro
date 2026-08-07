@@ -1,8 +1,10 @@
 <div align="center">
 
-# Marcos Justino
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:88399A,35:C05171,70:ED7735,100:FEA31B&height=180&section=header&text=Marcos%20Justino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Marcos Justino"/>
 
-**Desenvolvedor Full-Stack** · Criador da metodologia **Onda-Dev** · SaaS, sistemas com IA e apps do zero ao deploy
+**Desenvolvedor Full-Stack** · Criador da metodologia **Onda-Dev**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ED7735&center=true&vCenter=true&width=600&lines=SaaS+com+IA+embarcada;Sistemas+com+conformidade+LGPD;Do+levantamento+ao+deploy+em+produ%C3%A7%C3%A3o" alt="typing"/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinocarneiro161@gmail.com)
 [![Onda](https://img.shields.io/badge/Onda-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://onda-empresa.vercel.app/)
@@ -58,12 +60,15 @@ Construo produtos de ponta a ponta — do levantamento de requisitos ao deploy e
 
 Veja os repositórios fixados abaixo — de SaaS com IA a sistemas com conformidade LGPD e apps mobile.
 
-### 📊 GitHub Stats
+### 📊 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JustinoCarneiro&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinoCarneiro&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="195"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinoCarneiro/JustinoCarneiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinoCarneiro/JustinoCarneiro/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation dos commits" src="https://raw.githubusercontent.com/JustinoCarneiro/JustinoCarneiro/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
