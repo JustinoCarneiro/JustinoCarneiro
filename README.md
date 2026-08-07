@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F572B,50:90BC32,100:997369&height=180&section=header&text=Marcos%20Justino&fontSize=42&fontColor=D6D3C6&animation=fadeIn&fontAlignY=35" alt="Marcos Justino"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4C5C,50:1B8A94,100:2F9E5C&height=180&section=header&text=Marcos%20Justino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Marcos Justino"/>
 
 **Desenvolvedor Full-Stack** · Criador da metodologia **Onda-Dev**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=997369&center=true&vCenter=true&width=600&lines=SaaS+com+IA+embarcada;Sistemas+com+conformidade+LGPD;Do+levantamento+ao+deploy+em+produ%C3%A7%C3%A3o" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B8A94&center=true&vCenter=true&width=600&lines=SaaS+com+IA+embarcada;Sistemas+com+conformidade+LGPD;Do+levantamento+ao+deploy+em+produ%C3%A7%C3%A3o" alt="typing"/>
 
-[![Email](https://img.shields.io/badge/Email-997369?style=for-the-badge&logo=gmail&logoColor=D6D3C6)](mailto:justinocarneiro161@gmail.com)
-[![Onda](https://img.shields.io/badge/Onda-3F572B?style=for-the-badge&logo=vercel&logoColor=D6D3C6)](https://onda-empresa.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0E4C5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinocarneiro161@gmail.com)
+[![Onda](https://img.shields.io/badge/Onda-2F9E5C?style=for-the-badge&logo=vercel&logoColor=white)](https://onda-empresa.vercel.app/)
 
 </div>
 
