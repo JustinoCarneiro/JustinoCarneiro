@@ -15,7 +15,7 @@
 
 ### Sobre
 
-Construo produtos de ponta a ponta — do levantamento de requisitos ao deploy em produção — sozinho ou como estúdio (**Onda**). Já entreguei desde SaaS com IA embarcada até sistemas de gestão com dados sensíveis sob **LGPD** (saúde, jurídico), marketplaces com pagamento via escrow e apps mobile. Sigo um processo próprio, a **metodologia Onda-Dev**, que documenta cada decisão técnica e mantém specs vivas ao longo do projeto.
+Construo produtos de ponta a ponta, do levantamento de requisitos ao deploy em produção, sozinho ou como estúdio (**Onda**). Já entreguei desde SaaS com IA embarcada até sistemas de gestão com dados sensíveis sob **LGPD** (saúde, jurídico), marketplaces com pagamento via escrow e apps mobile. Sigo um processo próprio, a **metodologia Onda-Dev**, que documenta cada decisão técnica e mantém specs vivas ao longo do projeto.
 
 ### 🧰 Stack
 
@@ -58,7 +58,7 @@ Construo produtos de ponta a ponta — do levantamento de requisitos ao deploy e
 
 ### 💼 Projetos em destaque
 
-Veja os repositórios fixados abaixo — de SaaS com IA a sistemas com conformidade LGPD e apps mobile.
+Veja os repositórios fixados abaixo: de SaaS com IA a sistemas com conformidade LGPD e apps mobile.
 
 ### 📊 Atividade
 
